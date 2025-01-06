@@ -1,3 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>恭喜你！创建网站成功了！</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 100%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            padding: 10px;
+            background: #555;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 15px;
+            display: inline-block;
+        }
+        nav a:hover {
+            background: #444;
+        }
+        .content {
+            background: #fff;
+            padding: 20px;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+      
+  
 检测服务器状态
 (p)Vultr VPS服务器开通后，有机率会分配到被墙的IP，但胜在Vultr是按时计费的，所以可以随时销毁机器进行新IP分配（新建的机器要5分钟后才能执行销毁）。
 (p)
@@ -31,3 +87,8 @@
 (p)注意，后续如果重新配置节点信息，端口有变动，切记重新运行以上放行端口的命令，不然会导致节点无法使用，切记
 (p)
 (p)参考Vultr官方文档对于放行端口的说明：https://www.vultr.com/docs/firewall-quickstart-for-vultr-cloud-servers/
+
+</body>
+
+</body>
+</html>
